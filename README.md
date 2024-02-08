@@ -1,30 +1,45 @@
-# React + TypeScript + Vite
+# ![bg-desktop](https://github.com/GuiAlvesR/x-men/assets/139154854/b94a0e81-1601-490b-aa3c-400893ec1bb3)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Projeto Front-End - X-Men
+Uma breve descrição do projeto aqui.
 
-Currently, two official plugins are available:
+## 🔥 Introdução
+Coloque aqui as instruções e quais são os objetivos desse projeto, funcionalidades.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ⚙️ Pré-requisitos
+Coloque aqui passo a passo que precisa para instalar o projeto e como instalá-lo.
 
-## Expanding the ESLint configuration
+```
+Pode inserir exemplos.
+```
+### 🔨 Guia de instalação
+Explique aqui um passo a passo mostrando como deve executar para ter um ambiente de desenvolvimento em execução, desde instalar e rodar o projeto.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Etapas para instalar:
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+```
+Codigo, exemplos
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 🛠️ Executando os testes (caso tenha testes)
+Explique como executar os testes automatizados para este sistema.
+
+```
+Coloque exemplos
+```
+## 📦 Tecnologias usadas:
+**Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:**
+
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
+
+### 👷 Autores / Colaboradores
+
+* **Guilherme Alves Rodrigues** - FrontEnd - [Guilherme Alves](https://github.com/GuiAlvesR)
+  
+### 💡 Expressões de gratidão
+
+* Um agraqdecimento
+* Para suporte, mande um email para guinegocios20@gmail.com.
+* Link para o meu linkedin [Linkedin](https://www.linkedin.com/in/guilhermealvesrodriguesdev).
