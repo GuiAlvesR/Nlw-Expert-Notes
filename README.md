@@ -1,6 +1,6 @@
-# ![bg-desktop](https://github.com/GuiAlvesR/x-men/assets/139154854/b94a0e81-1601-490b-aa3c-400893ec1bb3)
+![image](https://github.com/GuiAlvesR/Nlw-Expert-Notes/assets/139154854/19b527fd-2cde-4748-837e-f5554ddf6fcc)
 
-# Projeto Front-End - X-Men
+# Projeto Front-End do Bloco de Notas da trilha React da Rocketseat - Nlw Expert 
 Uma breve descrição do projeto aqui.
 
 ## 🔥 Introdução
